@@ -6,6 +6,7 @@ public class StarsAndBars {
 		
 		//only can decrement by 2?
 		//these need to have 2 more rows under and stars added
+		//figure out how to add spaces under each line inside the loop?
 		
 		int n = 5;
 		int n2 = 6;
