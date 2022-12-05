@@ -17,7 +17,7 @@ public class StarsAndBars {
 		for(int i =0; i < n; i++) {
 			for(int j = 0; j < n ; j++) {
 				
-			if(n % 1 == i || n %3 ==i ) {
+			if(n / 3 == i ) {
 				
 			System.out.print("*  ");
 			//This is adding spaces to the right of the above star
@@ -32,6 +32,9 @@ public class StarsAndBars {
 }
 }
 }
+//      if(n % 1 == i || n %3 ==i ) {
+
+
 
 //		for(int i = 0; i< n3; i++) {
 //			for (int j = 0; j < n3; j++ ) {
